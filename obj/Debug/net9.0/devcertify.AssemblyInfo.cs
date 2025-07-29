@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("A cross-platform .NET CLI tool to create trusted local SSL certificates for local" +
     "host development using mkcert, with automated IIS integration on Windows."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+529c08c036b93f5bbf2bf4ef7c608e8cfaac74fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("devcertify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("devcertify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

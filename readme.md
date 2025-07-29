@@ -138,5 +138,3 @@ The tool will:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE "null") file for details.
-
-*Built with ❤️ by [Your Name/Organization]*
