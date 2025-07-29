@@ -8,7 +8,7 @@
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>devcertify</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
-    <Authors>Your Name/Organization</Authors>
+    <Authors>hur1can3</Authors>
     <Description>A cross-platform .NET CLI tool to create trusted local SSL certificates for localhost development using mkcert, with automated IIS integration on Windows.</Description>
     <PackageTags>ssl;certificate;localhost;https;mkcert;iis;dotnet-tool</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
