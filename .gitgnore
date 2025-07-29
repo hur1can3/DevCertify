@@ -43,6 +43,9 @@
 *.nupkg # Exclude NuGet packages created by 'dotnet pack'
 nupkg/   # Exclude the nupkg output directory itself
 
+bin/*
+obj/*
+
 # NuGet packages
 packages/
 *.nupkg

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Your Name/Organization")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("hur1can3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("A cross-platform .NET CLI tool to create trusted local SSL certificates for local" +
     "host development using mkcert, with automated IIS integration on Windows."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+529c08c036b93f5bbf2bf4ef7c608e8cfaac74fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebff2790d3aee8fdfbc63a308bebff08b6ca71c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("devcertify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("devcertify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
