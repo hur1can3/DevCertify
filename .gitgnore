@@ -1,0 +1,81 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.pdb
+*.log
+*.bak
+*.obj
+*.bin
+*.exe
+*.dll
+*.ilk
+*.lib
+*.ncb
+*.sbr
+*.res
+*.pch
+*.ipch
+*.aps
+*.bsc
+*.vcproj.filters
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+*.VC.VC.opendb
+*.VC.VC.opendb.log
+*.VC.VC.opendb.lock
+*.VC.VC.opendb.lock.log
+*.VC.VC.opendb.log.lock
+*.VC.VC.opendb.log.lock.log
+*.VC.VC.opendb.lock.log.lock
+*.VC.VC.opendb.lock.log.lock.log
+*.VC.VC.opendb.log.lock.log.lock
+*.VC.VC.opendb.log.lock.log.lock.log
+
+# Build artifacts
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.nupkg # Exclude NuGet packages created by 'dotnet pack'
+nupkg/   # Exclude the nupkg output directory itself
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Rider
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# ReSharper
+*.DotSettings
+*.userprefs
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Miscellaneous
+*.user
+*.bak
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+*.DS_Store # macOS specific
+Thumbs.db  # Windows specific
+
+# DevCertify specific exclusions
+localhost.p12  # Generated certificate
+localhost.pfx  # Generated certificate (renamed)
